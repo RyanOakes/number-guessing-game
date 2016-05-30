@@ -1,4 +1,4 @@
-**#Number Guessing Game**
+#Number Guessing Game
 
 ##Synopsis
 
@@ -16,4 +16,4 @@ get five guesses to get it right (number range is 1-100).
 6. Be able to use print and input.
 7. Create, add to, and check for existence in a list.
 
-This was written in Python 3.5.1 and requires no special installs. 
+This was written in Python 3.5.1 and requires no special installs.
